@@ -1,2 +1,2 @@
 # my-resolusi
-repository untuk emyimpan rencana harian untuk masa depan
+repository untuk menyimpan rencana harian untuk masa depan
