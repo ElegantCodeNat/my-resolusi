@@ -1,0 +1,18 @@
+Nat Resolusi jadwal harian
+- 05.00        : Bangun Pagi
+-Berdoa Pagi
+-Cuci Muka
+- 5.30 - 6.00  : Meditasi dan Olahraga Ringan 
+- 6.00 - 6.15  : Journaling/ Rencana Harian 
+- 6.15 - 7.00  : Belajar / Membaca / Menulis 
+- 7.00 - 11.00  : Fokus pada pekerjaan UTAMA : Bootcamp, Lamar Pekerjaan, Kerjaan Rumah 
+- 12.00 -13.30  : Makan siang 
+-  13.30 -15.00 : Selesaikan Tugas Tambahan : Tugas Bootcamp, Ambil kelas Online
+- 15.00 - 16.30 : Waktu untuk Kreativitas: Aktivitas kreatif seperti brainstorming ide baru, menggambar, atau proyek sampingan |CODING FITUR BARU FRONTEND| 
+- 16.30 -17.00  : Rekap dan Cek Email :memeriksa email, pesan, dan mengatasi administrasi yang belum selesai. Selesaikan urusan yang tertunda. 
+- 17.00 -19.00  : OLAHRAGA RINGAN, Kerja Menutup hari
+- 19.00 - 20.00  : Keluarga dan Sosial dan makan malam
+- 20:00 - 21:00  : Kursus online, |CODING FITUR BARU FRONTEND| atau mempelajari keterampilan
+- 21:00 - 21:30  : Journaling dan Review Hari : Refleksi diri tentang hari yang telah dilewati, apa yang sudah dicapai dan apa yang bisa diperbaiki
+- 21:30 - 22:00  : Matikan perangkat elektronik dan lakukan aktivitas relaksasi
+- 22:00 : TIDUR 7 JAM
