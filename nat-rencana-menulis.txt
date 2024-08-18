@@ -6,10 +6,14 @@ RENCANA MENULIS
   *  Menetapkan Tujuan : Tujuan karakter adalah apa yang mereka ingin capai sepanjang cerita
   *  Menyampaikan Pesan : Pesan atau tema adalah apa yang ingin Anda sampaikan kepada pembaca melalui cerita, MORAL, pandangan hidup, atau refleksi tentang kondisi manusia
   *  Menghubungkan Elemen-elemen
+     ^menghubungkan latar waktu
+     ^membuat desain karakter, tempat, busana, tata tradisi
 - Buat OUTLINE atau Rencana Cerita
   * Plot Utama: Tentukan alur cerita secara garis besar, termasuk awal, tengah, dan akhir cerita. Anda bisa menggunakan struktur klasik
     seperti 3-act structure atau Hero's Journey.
   * Subplot: Tambahkan subplot yang memperkaya cerita utama dan memberikan kedalaman pada karakter atau tema.
   * Karakter: Gambarkan karakter utama dan pendukung, termasuk latar belakang, motivasi, dan perkembangan karakter sepanjang cerita.
+    ^membuat perjalanan setiap karakter
   * Setting: Tentukan tempat dan waktu cerita. Jelaskan setting secara mendetail untuk menciptakan dunia yang hidup bagi pembaca.
 - Memulai Blog atau Artikel
+- Tambahkan akun menulis novel online
