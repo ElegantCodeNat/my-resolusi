@@ -6,8 +6,8 @@ RENCANA MENULIS
   *  Menetapkan Tujuan : Tujuan karakter adalah apa yang mereka ingin capai sepanjang cerita
   *  Menyampaikan Pesan : Pesan atau tema adalah apa yang ingin Anda sampaikan kepada pembaca melalui cerita, MORAL, pandangan hidup, atau refleksi tentang kondisi manusia
   *  Menghubungkan Elemen-elemen
-     ^ pelajari pendalaman karakter
-     ^ buat cerita komedinya
+     ^menghubungkan latar waktu
+     ^membuat desain karakter, tempat, busana, tata tradisi
 - Buat OUTLINE atau Rencana Cerita
   * Plot Utama: Tentukan alur cerita secara garis besar, termasuk awal, tengah, dan akhir cerita. Anda bisa menggunakan struktur klasik
     seperti 3-act structure atau Hero's Journey.
